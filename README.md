@@ -1,5 +1,7 @@
 # Holo-assistant
-This repo houses code for Maria: an anime pseudo-holographic virtual assistant than runs on a Raspberry Pi 4B. This README contains some basic instructions for running Maria, but more thorough documentation is on [this website](http://maria.awardwinninghuman.com/).
+This repo houses code for Maria: an anime pseudo-holographic virtual assistant than runs on a Raspberry Pi 4B. 
+The purpose of this fork is to implement YTMusic hopefully, I'm not very good with code so use with your own disgression.
+This README contains some basic instructions for running Maria, but more thorough documentation is on [this website](http://maria.awardwinninghuman.com/).
 
 
 
